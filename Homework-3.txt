@@ -1,5 +1,5 @@
 1. აღნიშნულ ინფუთს მივწვდებოდი name ტიპით (name="q")
-2. აღნიშნულ ინფუთს მივწვდებოდი data-ved-ის გამოყენებით
+2. აღნიშნულ ინფუთს მივწვდებოდი name-ის გამოყენებით
 3. /html/body/div[1]/div[1]/div/divaaaaaaaaaaaaaaaaaaaaaaaaaaa/div/div[1]/div/div[2]/a
 
 4. askjdnskfjnkjf
